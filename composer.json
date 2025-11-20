@@ -1,0 +1,20 @@
+{
+    "name": "hzmwdz/tinycore",
+    "description": "",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hzmwdz\\Tinycore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wanglf63",
+            "email": "906259933@qq.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    }
+}
